@@ -5,10 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-/*static char *font = "JetBrainsMono Nerd Font :pixelsize=15:antialias=true:autohint=true";*/
-static char *font = "Fira Code iScript :pixelsize=15:antialias=true:autohint=true";
-static char *font2[] = { "Fira Code iScript :pixelsize=15:antialias=true:autohint=true" };
-/*static char *font2[] = { "JetBrainsMono Nerd Font :pixelsize=15:antialias=true:autohint=true" };*/
+static char *font = "JetBrainsMono Nerd Font :pixelsize=15:antialias=true:autohint=true";
+static char *font2[] = { "JetBrainsMono Nerd Font :pixelsize=15:antialias=true:autohint=true" };
 static int borderpx = 0;
 
 /*
@@ -96,8 +94,7 @@ const int boxdraw_braille = 1;
 static int bellvolume = 0;
 
 /* default TERM value */
-char *termname = "xterm-256color";
-/*char *termname = "st-256color";*/
+char *termname = "st-256color";
 
 /*
  * spaces per tab
