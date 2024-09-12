@@ -6,7 +6,7 @@ Xft.rgba:	rgb
 Xft.lcdfilter:	lcddefault
 Xcursor.theme: Fuchsia
 
-st.font:         JetBrainsMono Nerd Font:style:medium:pixelsize=13
+st.font:         Fira Code iScript:style:medium:pixelsize=12
 
 ! window padding
 st.borderpx: 5
